@@ -1,3 +1,4 @@
 A: perubahan dari feature/a 
 B: perubahan dari feature/b 
 
+C: perubahan file1 
