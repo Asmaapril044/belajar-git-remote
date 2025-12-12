@@ -1,2 +1,3 @@
 Ini file 2 
 A: perubahan dari feature/a 
+D: perubahan di feature/d 
