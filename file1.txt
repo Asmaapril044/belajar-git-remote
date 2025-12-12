@@ -1,0 +1,6 @@
+A: perubahan dari feature/a 
+B: perubahan dari feature/b 
+
+D: perubahan di master 
+REBASE: perubahan di master 
+SQUASH: perubahan file1 
